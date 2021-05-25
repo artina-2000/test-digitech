@@ -1,0 +1,46 @@
+body {
+  background-color: #40648e;
+}
+
+.my-container {
+  max-width: 900px;
+}
+
+.flag-img {
+  padding: 25px;
+}
+.icon-bal {
+  width: 10%;
+  height: 10%;
+}
+.pClass {
+  margin-left: 5%;
+  color: grey;
+}
+.input-class {
+  font-size: 20px;
+}
+.check {
+  width: 50%;
+  height: 100%;
+  margin-left: 25%;
+}
+.check-left {
+  margin-left: 15px;
+}
+.width-btn {
+  margin: 10px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
+}
+.button-width {
+  width: 100%;
+}
+
+.content {
+  background-color: #f4f3ef;
+}
+
+.bottom-side {
+  position: absolute;
+  margin-top: 70%;
+}

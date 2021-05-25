@@ -1,0 +1,4 @@
+- Paper dashboard pour code de démarage
+- Bootstrap pour les css de base
+- font-awesone pour les icones
+- flaticon pour les drapeaux
